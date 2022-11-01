@@ -1,6 +1,6 @@
 import './App.scss';
 import share from './images/avater_share.svg';
-import avater from './images/avater_img.png';
+import profile from './images/profile.png';
 import menu from './images/menu_link.svg';
 // social Icons
 import slack from './images/slack.svg';
@@ -13,11 +13,11 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <div className="avater_section">
+        <div className="profile_section">
           <div className='user'>
-            <img id="profile__img" src={avater} alt="avater"/>
-            <p id="twitter">tr_hazard</p>
-            <p id="slack">Okeibunor Emmanuel</p>
+            <img id="profile__img" src={profile} alt="avater"/>
+            <p id="twitter">Jonathan kendrick</p>
+            <p id="slack">glitch</p>
           </div>
           <img id="share__link" src={share} alt="shareLink"/>
           <img id="menu__img" src={menu} alt="menuLink"/>
