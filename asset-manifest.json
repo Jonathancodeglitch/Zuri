@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zuri/static/css/main.3d0a8b65.css",
+    "main.js": "/Zuri/static/js/main.3a0c72dd.js",
+    "static/js/787.1dc6ef20.chunk.js": "/Zuri/static/js/787.1dc6ef20.chunk.js",
+    "static/media/I4G.svg": "/Zuri/static/media/I4G.7a5414ca7d8a0dce368862d7e3a9c4d1.svg",
+    "static/media/profile.jpg": "/Zuri/static/media/profile.6ab10619b1af4a0b2eca.jpg",
+    "static/media/Zuri.Internship_Logo.svg": "/Zuri/static/media/Zuri.Internship_Logo.4ae9d7f7084459bc8bead66d14e290eb.svg",
+    "static/media/slack.svg": "/Zuri/static/media/slack.8d1c3d774c173d1ec391982023ef91dc.svg",
+    "static/media/git.svg": "/Zuri/static/media/git.2fd84e34c3c3947d7e4ade85fd4dcbb5.svg",
+    "static/media/menu_link.svg": "/Zuri/static/media/menu_link.eced407782fd2bfacc2f0b0458c83141.svg",
+    "index.html": "/Zuri/index.html",
+    "static/media/avater_share.svg": "/Zuri/static/media/avater_share.deed7f80bdef8242ca9135da5b0e9f02.svg",
+    "main.3d0a8b65.css.map": "/Zuri/static/css/main.3d0a8b65.css.map",
+    "main.3a0c72dd.js.map": "/Zuri/static/js/main.3a0c72dd.js.map",
+    "787.1dc6ef20.chunk.js.map": "/Zuri/static/js/787.1dc6ef20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0a8b65.css",
+    "static/js/main.3a0c72dd.js"
+  ]
+}
