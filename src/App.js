@@ -22,13 +22,13 @@ function App() {
           <img id="share__link" src={share} alt="shareLink"/>
           <img id="menu__img" src={menu} alt="menuLink"/>
         </div>
-        <div className="link_list">
-          <a href='https://twitter.com/jonatha62141643?t=x%Xm*d_OUq' className='links'>Twitter Link</a>
-          <a href='https://training.zuri.team/' className='links' id='btn__zuri'>Zuri Team</a>
-          <a href='http://books.zuri.team' className='links' id='books'>Zuri Books</a>
-          <a href='https://books.zuri.team/python-for-beginners?ref_id=okeibunoremma' className='link_out' id='book__python'>Python Books</a>
-          <a href='https://background.zuri.team' className='links' id='pitch'>Background Check for Coders</a>
-          <a href='https://books.zuri.team/design-rules' className='links' id='book__design'>Design Books</a>
+        <div className="link_section">
+          <a href='https://twitter.com/jonatha62141643?t=x5Xm8d_OUq0obCaBHgUNfQ&s=08' className='link'>Twitter Link</a>
+          <a href='https://training.zuri.team/' className='link' id='btn__zuri'>Zuri Team</a>
+          <a href='http://books.zuri.team' className='link' id='books'>Zuri Books</a>
+          <a href='https://books.zuri.team/python-for-beginners?ref_id=okeibunoremma' className='link' id='book__python'>Python Books</a>
+          <a href='https://background.zuri.team' className='link' id='pitch'>Background Check for Coders</a>
+          <a href='https://books.zuri.team/design-rules' className='link' id='book__design'>Design Books</a>
         </div>
         <div className="socialIcons">
           <a href='https://hng9.slack.com/' className='socialIcon'>

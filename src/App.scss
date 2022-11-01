@@ -44,7 +44,7 @@
                 display: none;
             }
         }
-        .link_list{
+        .link_section{
             width: 70%;
             margin: 0 auto;
             display: flex;
@@ -76,13 +76,13 @@
         @media screen and (max-width: 1280px){
             // Tab responsiveness
             width: 90%;
-            .avater_section{
+             .profile_section{
                 width: 80%;
             }
         }
         @media screen and (max-width: 768px){
             // Mobile responsiveness
-            .avater_section{
+             .profile_section{
                 width: 90%;
                 #share__link{
                     display: none;
@@ -94,7 +94,7 @@
                     right: 0;
                 }
             }
-            .link_list{
+            .link_section{
                 width: 90%;
             }
         }
