@@ -1,6 +1,6 @@
 import './App.scss';
 import share from './images/avater_share.svg';
-import profile from './images/profile.png';
+import profile from './images/profile.jpg';
 import menu from './images/menu_link.svg';
 // social Icons
 import slack from './images/slack.svg';
@@ -23,12 +23,12 @@ function App() {
           <img id="menu__img" src={menu} alt="menuLink"/>
         </div>
         <div className="link_list">
-          <a href='https://twitter.com/tr_hazard' className='link_out'>Twitter Link</a>
-          <a href='https://training.zuri.team/' className='link_out' id='btn__zuri'>Zuri Team</a>
-          <a href='http://books.zuri.team' className='link_out' id='books'>Zuri Books</a>
+          <a href='https://twitter.com/jonatha62141643?t=x%Xm*d_OUq' className='links'>Twitter Link</a>
+          <a href='https://training.zuri.team/' className='links' id='btn__zuri'>Zuri Team</a>
+          <a href='http://books.zuri.team' className='links' id='books'>Zuri Books</a>
           <a href='https://books.zuri.team/python-for-beginners?ref_id=okeibunoremma' className='link_out' id='book__python'>Python Books</a>
-          <a href='https://background.zuri.team' className='link_out' id='pitch'>Background Check for Coders</a>
-          <a href='https://books.zuri.team/design-rules' className='link_out' id='book__design'>Design Books</a>
+          <a href='https://background.zuri.team' className='links' id='pitch'>Background Check for Coders</a>
+          <a href='https://books.zuri.team/design-rules' className='links' id='book__design'>Design Books</a>
         </div>
         <div className="socialIcons">
           <a href='https://hng9.slack.com/' className='socialIcon'>
